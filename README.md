@@ -1,5 +1,3 @@
-Hey folks, here's a sample quick project to practice making requests and creating a front-end application. Below are the wireframes for how the website should look.
-
 Functionality:
 * As a user, I should be able to pick from a list of shows and see all available episodes for that show
 * As a user, I should be able to select an episode from that show and see more information about that episode
